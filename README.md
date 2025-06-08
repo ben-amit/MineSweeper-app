@@ -1,6 +1,6 @@
 # Minesweeper Android App
 
-## 🚀 Features
+## Features
 
 - Classic Minesweeper mechanics
 - Recursive flood-fill to open connected empty spaces
